@@ -1,0 +1,63 @@
+ h1 { text-align: center;
+            font-family: cursive;
+            font-size: 2.5em;
+        background-color: palevioletred;
+        }
+        
+        h2 {font-family: cursive;
+            font-size: 2em;
+        position: relative;
+        left: 50%;}
+        
+        .leftnav {background-color: aliceblue;
+        font-family: fantasy;
+        width: 20%;
+        position: fixed;
+        left: 5%;
+        top: 204px;}
+
+.home {background-color: aliceblue;
+        font-family: fantasy;
+        width: 20%;
+        position: fixed;
+        left: 5%;
+        top: 400px}
+        
+        body {background-color: floralwhite;
+            padding: 10px;
+        border: 4px double black}
+        
+        #bodyp {font-family: fantasy;
+        position: relative;
+            margin: auto;
+            width: 50%;
+            left: 200px;
+        }
+
+ 
+        
+        .missypic {position: relative;
+        left: 40%}
+        
+        .missyhs {
+            display: inline-flex;
+            position:relative;
+                left: 20%;
+            top: 100px;
+        }
+        
+        #bio {font-family:fantasy;
+            position: relative;
+        top: -200px;
+            margin: auto;
+            width: 50%;
+            left: 200px;
+        }
+        
+        figcaption {position: relative;
+        width:30%;}
+        
+
+        #footer {text-align: right}
+        
+        a:link {text-decoration: none}
